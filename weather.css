@@ -1,0 +1,27 @@
+body{
+  background-color:#fde047
+}
+::-webkit-input-placeholder { /* Edge */
+  color: white;
+  padding: 3px;
+  font-family: 'Roboto', sans-serif;
+}
+
+input:focus{
+  color:aqua;
+  text-align:5px;
+}
+
+.container p{
+  text-align:center;
+  font-size:27px;
+  color:Blue;
+}
+
+#buton{
+  width:30px;
+  height:30px;
+  background-color:aqua;
+  align-items:center;
+  border-radius:10px
+}
